@@ -1,0 +1,3 @@
+{"ts": "2026-02-13T12:00:00Z", "op": "update", "path": "email", "value": "amina.new@example.com"}
+{"ts": "2026-02-13T12:01:15Z", "op": "add_address", "value": {"type": "shipping", "line1": "77 Dundas St W", "city": "Toronto", "province": "ON", "postal_code": "M5G 1Z3", "country": "CA"}}
+{"ts": "2026-02-13T12:03:42Z", "op": "update", "path": "phone", "value": "+1-416-555-7777"}

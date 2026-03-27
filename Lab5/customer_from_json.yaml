@@ -1,0 +1,15 @@
+customer_id: CUST-1001
+first_name: Amina
+last_name: Rahman
+email: amina.rahman@example.com
+phone: +1-416-555-0197
+addresses:
+- type: home
+  line1: 123 Bloor St W
+  city: Toronto
+  province: 'ON'
+  postal_code: M5S 1W7
+  country: CA
+preferences:
+  marketing_opt_in: true
+updated_at: '2026-02-10T15:23:11Z'

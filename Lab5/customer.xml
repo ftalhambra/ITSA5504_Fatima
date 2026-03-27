@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<customer><customer_id>CUST-1001</customer_id><first_name>Amina</first_name><last_name>Rahman</last_name><email>amina.rahman@example.com</email><phone>+1-416-555-0197</phone><addresses><address><type>home</type><line1>123 Bloor St W</line1><city>Toronto</city><province>ON</province><postal_code>M5S 1W7</postal_code><country>CA</country></address></addresses><preferences><marketing_opt_in>True</marketing_opt_in></preferences><updated_at>2026-02-10T15:23:11Z</updated_at></customer>
