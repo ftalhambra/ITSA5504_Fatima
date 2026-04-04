@@ -1,0 +1,35 @@
+{
+  "consumer": {
+    "name": "OrderConsumer"
+  },
+  "provider": {
+    "name": "OrderProvider"
+  },
+  "interactions": [
+    {
+      "description": "a request for orders",
+      "providerStates": [
+        {
+          "name": "orders exist"
+        }
+      ],
+      "request": {
+        "method": "GET",
+        "path": "/orders"
+      },
+      "response": {
+        "status": 200,
+        "body": {
+          "id": 101,
+          "item": "Wireless Mouse",
+          "price": 29.99
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "pactSpecification": {
+      "version": "2.0.0"
+    }
+  }
+}
