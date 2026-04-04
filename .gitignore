@@ -8,6 +8,16 @@
 # Python
 __pycache__/
 *.pyc
+.venv/
 
-# Docker
+# Docker / logs
 *.log
+pact-mock-service.log
+
+# IDE / editor folders
+.vs/
+.vscode/
+.github/
+
+# Archives
+*.zip
